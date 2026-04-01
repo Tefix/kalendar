@@ -155,14 +155,17 @@ git commit -m "fix stuff"
 
 🖼️ Ekraanipildid
 📆 Kalendri loomine
+
 <img width="595" height="123" alt="pilt" src="https://github.com/user-attachments/assets/5729a5e4-a590-496b-a5d0-8228ba8abf21" />
 
 Kalender
 🧮 Custom Fields
+
 <img width="595" height="123" alt="pilt" src="https://github.com/user-attachments/assets/5c25aa99-116d-4a9f-9744-322eca7f8b0b" />
 
 Fields
 📊 Diagrammid
+
 <img width="570" height="123" alt="pilt" src="https://github.com/user-attachments/assets/02e4bdd2-df27-448d-86e7-7e235828d5e2" />
 
 
