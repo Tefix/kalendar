@@ -153,17 +153,20 @@ git commit -m "fix stuff"
 
 ## 🖼 Ekraanipildid
 
-Projekti käigus tehti järgmised ekraanipildid otse ProjectLibre tarkvarast:
+🖼️ Ekraanipildid
+📆 Kalendri loomine
+<img width="595" height="123" alt="pilt" src="https://github.com/user-attachments/assets/5729a5e4-a590-496b-a5d0-8228ba8abf21" />
 
-1. `File → Calendar` menüü asukoht
-2. Uue kalendri loomine (`Create New Base Calendar`)
-3. `Custom Fields` aken — valemi lisamine
-4. Valem `[Cost] / [Duration]` redaktoris
-5. `Insert Column` — veeru lisamine Gantti tabelisse
-6. Gantti tabel koos `Cost1` veeruga
-7. `View → Network Diagram` täisvaade
-8. Network Diagram lähivaade (kriitilised ülesanded)
-9. Gantt Chart Format vahekaart
+Kalender
+🧮 Custom Fields
+<img width="595" height="123" alt="pilt" src="https://github.com/user-attachments/assets/5c25aa99-116d-4a9f-9744-322eca7f8b0b" />
+
+Fields
+📊 Diagrammid
+<img width="570" height="123" alt="pilt" src="https://github.com/user-attachments/assets/02e4bdd2-df27-448d-86e7-7e235828d5e2" />
+
+
+Diagrammid
 
 ---
 
