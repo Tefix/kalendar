@@ -1,4 +1,4 @@
-# 📅 ProjectLibre — Kalendri ja Diagrammide Õppeleht
+# 📅 ProjectLibre — Kalendri ja Diagrammide
 
 > Õppeprojekt: veebileht, mis selgitab ProjectLibre põhifunktsioone — kalendri loomine, tööaegade muutmine ja diagrammide kasutamine.
 
